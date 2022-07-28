@@ -5,7 +5,7 @@
 
 Project aims to create a Languages Cards App.
 
-## Expected Outcome
+## Outcome
 
 ![Project 003 Snapshot](language-cards.gif)
 
